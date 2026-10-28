@@ -1,4 +1,4 @@
-
-     for(int i=0;i<n;i++){
-      printf("%d ",array[i]);
-    }
+  //  for (int i = 0; i < m; i++)
+    // {
+    //     printf("%d ", c[i]);
+    // }
